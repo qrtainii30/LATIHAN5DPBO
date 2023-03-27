@@ -26,7 +26,7 @@ Dalam kelas ini terdapat beberapa method yang dipakai dalam program ini, diantar
 2. Kelas Mahasiswa<br>
 Dalam kelas ini terdapat atribut-atribut yang dipakai dalam Form Daftar Mahasiswa ini, diantaranya Nim, Nama, Nilai, dan Gender<br>
 
-##Penjelasan Alur Program
+## Penjelasan Alur Program
 1. User dapat mengisi form pada kolom yang disediakan, jika telah selesai user menekan tombol Add sehingga data tersebut tampil pada tabel<br>
 ![input](https://user-images.githubusercontent.com/119904110/228012350-78c3a77d-92f6-494d-ab42-3a84d230a246.PNG)<br>
 2. User dapat merubah datanya dengan menekan data yang dimilikinya pada tabel, kemudian user dapat merubah data pada kolom ataupun dalam tabel itu sendiri<br>
